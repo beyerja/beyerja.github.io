@@ -853,6 +853,9 @@
 .bxl-wordpress:before {
   content: "\e96d";
 }
+.bxl-xing:before {
+  content: "\eeb6";
+}
 .bxl-yahoo:before {
   content: "\e96e";
 }
